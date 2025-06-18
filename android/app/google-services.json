@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "539438181362",
+    "project_id": "leoscafe-88424",
+    "storage_bucket": "leoscafe-88424.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539438181362:android:c0c5411a821f54e498996b",
+        "android_client_info": {
+          "package_name": "com.Shahid.leos_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfeTvk9ia5A_GUrVh7LSEVGj-n6ZuBWOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539438181362:android:514d0cb901c9314998996b",
+        "android_client_info": {
+          "package_name": "com.shahid.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfeTvk9ia5A_GUrVh7LSEVGj-n6ZuBWOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539438181362:android:18df94073601523b98996b",
+        "android_client_info": {
+          "package_name": "com.shahid.leos_cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfeTvk9ia5A_GUrVh7LSEVGj-n6ZuBWOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
