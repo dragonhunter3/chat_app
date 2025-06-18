@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:chat_app/notification_services/notifications.dart';
+import 'package:chat_app/src/features/notification_services/notifications.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

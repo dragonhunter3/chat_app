@@ -2,10 +2,10 @@ import 'package:curved_labeled_navigation_bar/curved_navigation_bar.dart';
 import 'package:curved_labeled_navigation_bar/curved_navigation_bar_item.dart';
 
 import 'package:flutter/material.dart';
-import 'package:chat_app/homepages/firends.dart';
-import 'package:chat_app/homepages/getrequests.dart';
-import 'package:chat_app/homepages/getusers.dart';
-import 'package:chat_app/homepages/userscall.dart';
+import 'package:chat_app/src/features/homepages/firends.dart';
+import 'package:chat_app/src/features/homepages/getrequests.dart';
+import 'package:chat_app/src/features/homepages/getusers.dart';
+import 'package:chat_app/src/features/homepages/userscall.dart';
 
 class BottomNavigation extends StatefulWidget {
   const BottomNavigation({super.key});
